@@ -1,0 +1,32 @@
+                   *****-------------------------------*****
+                                w x T a s k s
+                   *****-------------------------------*****
+                    a Task list/ process killer for xCenter
+
+                                     J M A
+
+                 ** BETA VERSION - USE AT YOUR OWN RISK !! **
+
+Beta 4 - made by Dmitry A.Steklenev
+-------------------------------------------------------------------------------
+
+* If it is necessary the list of tasks is formatted to several columns.
+* Tasks and processes in the list now have icons.
++ Fixed switching to WPS folders.
++ Fixed the menu position in some cases.
+
+Beta 3 - September 27, 2001
+-------------------------------------------------------------------------------
+* Added support for killing tasks via Holger Veit's fastio$ kill method.
+  Include xf86sup.sys in your config.sys and press Ctrl-Click on the
+  task (in the wxTask list) that you want to "kill -9".
++ Changed the pid number bug (showed pid + 1000)
+
+
+
+Contact
+-------------------------------------------------------------------------------
+You can contact the developer (me :) at:
+mail@jma.se
+
+
